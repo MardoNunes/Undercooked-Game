@@ -10,6 +10,12 @@ Um jogo semelhante ao "overcooked" implementado em C.
 - Condição para Win: Entregar 10 pedidos.
 - Movimentação: A movimentação do chapeiro é feito apenas com as teclas W, A, S e D.
 
+### Clone o repositório
+Será preciso ter previamente na máquina o GCC e o MAKE (normalmente encontrado nas distruibuições Linux)
+```bash
+    git clone https://github.com/MardoNunes/Undercooked-Game.git
+```
+
 ### Compilação
 O repositório é acompanhado por um script Makefile. Para compilar é simples, basta dar o comando make no terminal no diretório em que se encontra o repositório!
 ```bash

@@ -1,4 +1,5 @@
 # Undercooked-Game
+![UndercookedGIF](https://user-images.githubusercontent.com/106790959/227815403-9f217838-4329-4eb9-b0ed-f0ac731e5beb.gif)
 Um jogo semelhante ao "overcooked" implementado em C.
  Nele, você deve controlar o chapeiro pegando os ingredientes de acordo com a fila de pedidos e montar tais pedidos.
  
